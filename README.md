@@ -9,14 +9,14 @@
 - Content Management System / Website Builder: WordPress
 
 ### Professional History
-**[Freelance Rails developer @ Small chops shop (August 2023 - Present)](https://small-chops-shop.fly.dev/)**
-**Links: [Github](https://github.com/tolaseadegbite/small_chops_shop) | [Live Demo](https://small-chops-shop.fly.dev/)**
+**[Freelance Rails developer @ Small chops shop (August 2023 - Present)](https://small-chops-shop.fly.dev/){:target="_blank"}**
+**Links: [Github](https://github.com/tolaseadegbite/small_chops_shop){:target="_blank"} | [Live Demo](https://small-chops-shop.fly.dev/){:target="_blank"}**
 - Developed a single-page application with features like authentication, product filtering, star ratings, and admin functionality
 - Designed and implemented a seamless integration with Paystack, a leading alternative payment processor, to circumvent Stripe's        geographical restrictions and expand payment capabilities in African markets, ensuring uninterrupted service delivery and enhanced  customer experience.
 - Deployed application to Fly, ensuring scalability and reliability
 
-**[Freelance Rails developer, Digital Library (MVP) (Nov 2023 - Nov 2023)](https://digital-library.fly.dev/)**
-**Links: [Github](https://github.com/tolaseadegbite/DigitalLibrary) | [Live Demo](https://digital-library.fly.dev/)**
+**[Freelance Rails developer, Digital Library (MVP) (Nov 2023 - Nov 2023)](https://digital-library.fly.dev/){:target="_blank"}**
+**Links: [Github](https://github.com/tolaseadegbite/DigitalLibrary){:target="_blank"} | [Live Demo](https://digital-library.fly.dev/){:target="_blank"}**
 - Developed a user-friendly interface for borrowing, searching, and filtering library resources
 - Integrated a robust admin panel for managing resources and performing CRUD operations
 - Implemented a system for users to track their reading progress and manage their bookshelves
@@ -27,5 +27,5 @@
 - Created engaging and interactive programming exercises to reinforce theoretical concepts, resulting in a significant improvement in student comprehension.
 
 ### Educational History
-**[Higher National Diploma (2022)](https://fedpolyado.edu.ng/)**
-[The Federal Polytechnic, Ado-Ekiti](https://fedpolyado.edu.ng/)
+**[Higher National Diploma (2022)](https://fedpolyado.edu.ng/){:target="_blank"}**
+[The Federal Polytechnic, Ado-Ekiti](https://fedpolyado.edu.ng/){:target="_blank"}
