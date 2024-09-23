@@ -5,4 +5,4 @@
 - Frontend Development: Hotwire, Turbo, Stimulus, JavaScript, Tailwind, Bootstrap
 - DevOps & Tools: Git, Minitest, RSpec, AWS S3, Fly.io, Heroku
 - Project Management: Notion
-- Design: FIgma
+- Design: Figma
