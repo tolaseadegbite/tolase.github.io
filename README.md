@@ -1,4 +1,5 @@
-# Web Developer
+# Software Engineer
+[LinkedIn](https://www.linkedin.com/in/tolase-adegbite/){:target="_blank"}
 
 ### Skills
 - Backend Development: Ruby on Rails, Sinatra, Postgresql, MySQL
