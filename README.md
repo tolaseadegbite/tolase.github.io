@@ -1,5 +1,5 @@
 # Software Engineer
-[LinkedIn](https://www.linkedin.com/in/tolase-adegbite/){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/tolase-adegbite/){:target="_blank"} | email: tolasekelvin@gmail.com
 
 ### Skills
 - Backend Development: Ruby on Rails, Sinatra, Postgresql, MySQL
