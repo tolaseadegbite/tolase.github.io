@@ -13,7 +13,7 @@
 **[Freelance Rails developer @ Small chops shop (August 2023 - Present)](https://small-chops-shop.fly.dev/){:target="_blank"}**
 **Links: [Github](https://github.com/tolaseadegbite/small_chops_shop){:target="_blank"} | [Live Demo](https://small-chops-shop.fly.dev/){:target="_blank"}**
 - Developed a single-page application with features like authentication, product filtering, star ratings, and admin functionality
-- Designed and implemented a seamless integration with Paystack, a leading payment processor, ensuring uninterrupted service delivery and enhanced  customer experience.
+- Implemented a seamless integration with Paystack, a leading payment processor to simplify, secure and facilitate transactions, uninterrupted service delivery and enhanced customer experience.
 - Deployed application to Fly, ensuring scalability and reliability
 
 **[Freelance Rails developer, Digital Library (MVP) (Nov 2023 - Nov 2023)](https://digital-library.fly.dev/){:target="_blank"}**
